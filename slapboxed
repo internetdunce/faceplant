@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+    <meta name="description" content="Roughly 155 characters">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+   <p>This website was created out of sheer desperation.</p>
+  </body>
+</html>
+header, nav, main, article, section, aside, footer, address
+✎
+
+<header>
+    <div id="logo">PANIC</div>
+    <nav>  
+        <ul>
+            <li><a href="/">Home</a>
+            <li><a href="/link">Page</a>
+        </ul>
+    </nav>
+</header>
+<main role="main">
+    <article>
+        <h2>It was broken before I picked it up. Honest.</h2>
+        <p>In all honesty I probably should not be allowed a platform to blather on and on about nothing in particular. I apologize if you are reading this web site. :(</p>
+    </article>
+    <article>
+        <h2>When will it all end?</h2>
+        <p>I fear that it may never end. Stuck in a loop of eternal suffering and misery. :(</p>
+    </article>
+</main>
+<section>
+    A group of related content
+</section>
+<aside>
+    Sidebar
+</aside>
+<footer>
+    <p></p>
+    <address>
+        Contact <a href="mailto:ghostlyscreams@tutanota.com">me</a>
+    </address>
+</footer>
